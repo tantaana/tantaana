@@ -77,6 +77,7 @@
 <img src="./Assets/Stack/Firebase.gif" alt="Firebase" height="60" />
 <img src="./Assets/Stack/Express.gif" alt="Express" height="60" />
 <img src="./Assets/Stack/MongoDB.gif" alt="MongoDB" height="60" />
+<img src="./Assets/Stack/Photoshop.gif" alt="MongoDB" height="60" />
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest_API" height="60" />
 </div><br><br><br>
 
