@@ -62,7 +62,8 @@
 <h1 align="center">🖥️ Tech Stack 🖥️</h1>
 <!-- --------------------- -->
 <div style="display: flex;"  align="center">
-<h2>Expertise:</h1>
+<h2>Expertise:</h2>
+<img src="#"><h2>hello</h2></img>
 <img src="./Assets/Stack/JavaScript.gif" alt="JS" height="60" />
 <img src="./Assets/Stack/React.gif" alt="React" height="60" />
 <img src="./Assets/Stack/Tailwind.gif" alt="Tailwind" height="60" />
@@ -72,7 +73,7 @@
 </div>
 <!-- ------------------------- -->
 <div style="display: flex;"  align="center">
-<h2>Familiar:</h1>
+<h2>Familiar:</h2>
 <img src="./Assets/Stack/Node.gif" alt="Node" height="60" />
 <img src="./Assets/Stack/Firebase.gif" alt="Firebase" height="60" />
 <img src="./Assets/Stack/Express.gif" alt="Express" height="60" />
@@ -81,7 +82,7 @@
 </div>
 <!-- ------------------------- -->
 <div style="display: flex;"  align="center">
-<h2>Tools:</h1>
+<h2>Tools:</h2>
 <img src="./Assets/Stack/vs_code.gif" alt="VS_Code" height="60" />
 <img src="./Assets/Stack/Canva.gif" alt="Canva" height="60" />
 <img src="./Assets/Stack/git.gif" alt="git" height="60" />
