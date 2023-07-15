@@ -111,4 +111,4 @@
 
 <!-- Random Dev Quote Section -->
 <h1 align="center">🕯️ Quote Of The Day 🕯️</h1>
-<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" /></p><br><br><br>
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" /></p>
