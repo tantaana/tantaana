@@ -78,7 +78,6 @@
 <img src="./Assets/Stack/Express.gif" alt="Express" height="60" />
 <img src="./Assets/Stack/MongoDB.gif" alt="MongoDB" height="60" />
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest_API" height="60" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" height="60" />
 </div><br><br><br>
 
 <!-- Github Stats Section -->
