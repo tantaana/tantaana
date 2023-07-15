@@ -34,9 +34,9 @@
 
 📄 Know about my experiences from **[My Resume](https://drive.google.com/file/d/1tPGE-x4t1mMWQdwUHf4lqIQF053tDbqY/view)**<br>
 
-⚡ My fun fact is **I walk around when I can't solve programming related problem** 😂<br>
+📫 To reach me ➡️ **shariartanvir99@gmail.com**<br>
 
-📫 To reach me ➡️ **shariartanvir99@gmail.com**
+⚡ My fun fact is **I walk around when I can't solve programming related problem** 😂
 
 </h3><br><br><br>
 
