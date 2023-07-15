@@ -63,7 +63,6 @@
 <!-- --------------------- -->
 <div style="display: flex;"  align="center">
 <h2>Expertise:</h2>
-<img src="#"><h2>hello</h2></img>
 <img src="./Assets/Stack/JavaScript.gif" alt="JS" height="60" />
 <img src="./Assets/Stack/React.gif" alt="React" height="60" />
 <img src="./Assets/Stack/Tailwind.gif" alt="Tailwind" height="60" />
