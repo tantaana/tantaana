@@ -85,7 +85,7 @@
 <img src="./Assets/Stack/vs_code.gif" alt="VS_Code" height="60" />
 <img src="./Assets/Stack/figma.gif" alt="Figma" height="60" />
 <img src="./Assets/Stack/Github.gif" alt="Github" height="60" />
-<img src="./Assets/Stack/Canva.gif" alt="Canva" height="60" />
+<img src="./Assets/Stack/Canvas.gif" alt="Canva" height="60" />
 <img src="./Assets/Stack/git.gif" alt="git" height="60" />
 <img src="./Assets/Stack/npm.gif" alt="npm" height="60" />
 <img src="./Assets/Stack/Photoshop.gif" alt="Photoshop" height="60" />
